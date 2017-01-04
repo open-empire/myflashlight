@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha Lanterna</string>
+    <string name="doesnt_support">Desculpe, o dispositivo não suporta flash de luz!</string>
+    <string name="error">Erro</string>
+    <string name="subtitle">Uma lanterna simples</string>
+    <string name="confirm">Confirmar</string>
+    <string name="explanation">Por favor, eu preciso de permissão para trabalhar.</string>
+    <string name="not_authorized_yet">Ainda não Autorizado.</string>
+    <string name="permission_accepted">Permissão Concedida.</string>
+    <string name="permission_not_accepted">Permissão Negada.</string>
+    <string name="trouble_on_camera">Problemas no dispositivo da câmera.</string>
+</resources>

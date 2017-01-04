@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein TaschenLampe</string>
+    <string name="doesnt_support">Leider, Ihr Gerät nicht über Blitzlicht unterstützt!</string>
+    <string name="error">Fehler</string>
+    <string name="subtitle">Eine einfache TaschenLampe</string>
+    <string name="explanation">Bitte ich brauche die Erlaubnis zu arbeiten.</string>
+    <string name="not_authorized_yet">Nicht autorisiert Noch</string>
+    <string name="permission_accepted">Erlaubnis erteilt!</string>
+    <string name="permission_not_accepted">Berechtigung entziehen!</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="trouble_on_camera">Ärger auf Kameragerät .</string>
+</resources>

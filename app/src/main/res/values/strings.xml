@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFlashLight</string>
+    <string name="error">Error</string>
+    <string name="doesnt_support">Sorry, your device doesn\'t support flash light!</string>
+    <string name="subtitle">A simple FlashLight</string>
+    <string name="permission_accepted">Permission Granted!</string>
+    <string name="permission_not_accepted">Permission Revoke!</string>
+    <string name="not_authorized_yet">Not Authorized Yet</string>
+    <string name="confirm">Confirm</string>
+    <string name="explanation">Please i need permission to Work.</string>
+    <string name="trouble_on_camera">Trouble on Camera Device.</string>
+</resources>
